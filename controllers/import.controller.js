@@ -1,4 +1,4 @@
-const { parseCsvBuffer } = require("../services/csvparser");
+const { parseCsvBuffer } = require("../services/csvParser");
 const Account = require("../models/Account");
 const { mapBatch } = require("../services/aiMapper");
 const { normalizeCrmRecord } = require("../services/normalizer");
