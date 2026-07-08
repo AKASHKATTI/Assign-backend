@@ -139,8 +139,7 @@ To ensure production-grade resilience, the following layers are embedded out of 
 This service is fully containerized-ready and structurally streamlined to easily deploy across cloud application hosting providers:
 
 * **Render** (Native Node.js Web Services)
-* **Railway**
-* **Fly.io**
+
 
 ---
 
